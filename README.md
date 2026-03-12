@@ -152,7 +152,7 @@ database
 ### 1️⃣ Clonar o repositório
 
 ```bash
-git clone https://github.com/seuusuario/esocial-clone.git
+git clone https://github.com/paulcjovko/esocial-clone.git
 ```
 
 ### 2️⃣ Entrar no diretório
